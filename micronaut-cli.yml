@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: me.convenio
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jpa, email-javamail, email-template, flyway, gradle, hibernate-jpa, hibernate-validator, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, kafka, logback, lombok, micronaut-build, multi-tenancy, netty-server, openapi, postgres, problem-json, readme, rxjava3, rxjava3-http-client, security-annotations, security-jwt, security-oauth2, shade, testcontainers, yaml]
